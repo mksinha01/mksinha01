@@ -1,9 +1,38 @@
-# 💫 About Me:
-## 👋 Welcome to My GitHub!<br>- 🎓 B.Tech Student | Founder of Nextronix<br>- 🤖 Passionate about Robotics, AI, and IoT<br>- 🔭 Currently working on Smart Goggles for visually impaired people<br>- 🌱 Learning Python, Machine Learning & Raspberry Pi<br>- 📫 Reach me at [your email/linkedin/portfolio]<br># 🚀 Hey, I'm Manoj Kumar Sinha! <br><br>🎥 **Cinematographer | Video Editor | Robotics Enthusiast** 🤖  <br>💡 Passionate about **AI-powered robotics & creative storytelling**  <br>📽️ I create **cinematic tech content & open-source projects**  <br>🎯 Currently building **Smart Goggles for the visually impaired**  <br>🛠️ Exploring **Python, AI, Raspberry Pi & Film Gear Automation**  <br>📩 Reach me at: [Your Email] | 📺 Watch My Work: [YouTube Link]<br>
+# 👋 Hi, I'm Manoj Kumar Sinha  
+### 🚀 Robotics | AI | IoT | Video Editing | Tech Enthusiast  
+
+🔭 **I’m currently working on:**  
+- Nextronix Robotics Club @ CSVTU Bhilai (President)  
+- AI-powered Home Assistant  
+- Smart Goggles for the Visually Impaired  
+
+🌱 **I’m currently learning:**  
+- Machine Learning & AI for Assistive Technology  
+- Advanced Robotics & IoT  
+
+💡 **Projects:**  
+- 🤖 Voice-Controlled Raspberry Pi Robot  
+- 🚗 Line-Following Robo Car  
+- 🏋️ AI-Powered Workout Tracker  
+- 🔊 Python Voice Assistant  
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](MANOJ SINHA)  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube)](your-youtube-channel)  
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/mksinha01) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mk_sinhaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Manoj-Verse-l) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mksinha77756@gmail.com) 
+💻 **Tech Stack:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)  
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![IoT](https://img.shields.io/badge/-IoT-blue?style=flat&logo=internet-of-things)  
+
+⚡ **Fun Fact:** I love building robots that interact with the real world!  
+
+
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
