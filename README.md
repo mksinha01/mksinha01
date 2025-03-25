@@ -17,7 +17,7 @@
 - 🔊 Python Voice Assistant  
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](MANOJ SINHA)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/mksinnha/)  
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube)](your-youtube-channel)  
 
 
