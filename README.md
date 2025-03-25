@@ -21,12 +21,6 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube)](your-youtube-channel)  
 
 
-💻 **Tech Stack:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![IoT](https://img.shields.io/badge/-IoT-blue?style=flat&logo=internet-of-things)  
 
 ⚡ **Fun Fact:** I love building robots that interact with the real world!  
 
