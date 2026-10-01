@@ -11,7 +11,7 @@
 <br/><br/>
 
 <!-- ⚛️ TECH STACK — Orbiting core & categorized chip grid -->
-<img src="./stack.svg?v=1" alt="Tech stack — Gen AI, Voice, Cloud & ML" width="100%"/>
+<img src="./stack.svg?v=2" alt="Tech stack — Gen AI, Voice, Cloud & ML" width="100%"/>
 
 <br/><br/>
 
