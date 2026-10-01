@@ -59,7 +59,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=mksinha01&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=mksinha01&color=22d3ee&style=for-the-badge&label=PROFILE+VIEWS&base=548" alt="Profile views"/>
 
 <br/>
 
