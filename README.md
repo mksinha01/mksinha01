@@ -53,7 +53,7 @@
 <img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
 <a href="https://github.com/mksinha01"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/mksinha"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/mksinnha/"><img src="https://img.shields.io/badge/LinkedIn-a78bfa?style=for-the-badge&logo=linkedin&logoColor=0d0e16" alt="LinkedIn"/></a>
 <a href="mailto:mksinha77756@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
 <a href="https://wa.me/916267835219"><img src="https://img.shields.io/badge/WhatsApp-34d399?style=for-the-badge&logo=whatsapp&logoColor=0d0e16" alt="WhatsApp"/></a>
 
